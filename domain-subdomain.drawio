@@ -1,0 +1,40 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.3">
+  <diagram name="Página-1" id="6u4IQiRh74QQNTcbs4R2">
+    <mxGraphModel dx="1434" dy="786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-1" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="330" y="140" width="220" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-2" value="Domain&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="414" y="90" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-3" value="Core Domain" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="360" y="160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-4" value="Coração do negócio&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Diferencial competitivo da empresa&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="75" y="200" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-5" value="support subdomain" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="460" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="87n2VBQ9WvqOVNMpSdzM-6" target="87n2VBQ9WvqOVNMpSdzM-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-6" value="Apoiam o domínio&lt;div&gt;Faz a operação do domínio possível&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="590" y="220" width="220" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-8" value="Generic&lt;div&gt;subdomain&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="370" y="255" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-9" value="Software auxiliares" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="600" y="305" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="87n2VBQ9WvqOVNMpSdzM-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.545;entryY=0.818;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="87n2VBQ9WvqOVNMpSdzM-9" target="87n2VBQ9WvqOVNMpSdzM-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
