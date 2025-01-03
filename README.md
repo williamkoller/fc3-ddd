@@ -3,15 +3,16 @@
 ## O que é DDD?
 
 - É uma forma de desenvolver software com foco no coração da aplicação - o que chamamos
-de domínio - tendo o objetivo de entender regras, processos e complexidades,
-separando-as assim de outros ponmtos complexos que normalmente são adicionados durante o
-processo de desenvolvimento.
+  de domínio - tendo o objetivo de entender regras, processos e complexidades,
+  separando-as assim de outros ponmtos complexos que normalmente são adicionados durante o
+  processo de desenvolvimento.
 
 ## De onde surgiu o DDD?
 
 - Eric evans
 
 - Livro lançado em 2003
+
   - Filosofia
   - Exemplos reais
   - Patterns
@@ -25,12 +26,12 @@ processo de desenvolvimento.
 - DDD é / deve ser aplicado para casos de projetos de softwares complexos
 
 - Grandes projetos possuem mais áreas, muitas regras de negócio, muitos processos
-com diferrentes visões em diferentes contextos
+  com diferrentes visões em diferentes contextos
 
 - Não há como não utilizar técnicas avançadas em projetos de alta complexidade
 
 - Grande parte da complexidade desse tipo de software não vem da tecnologia, mas sim da
-comunicação, separação de contextos, entendimento do negócio por viversos ângulos
+  comunicação, separação de contextos, entendimento do negócio por viversos ângulos
 
 - Pessoas
 
@@ -43,7 +44,7 @@ comunicação, separação de contextos, entendimento do negócio por viversos �
 - Criar o design estratégico utilizando Bounded Contexts
 
 - Criar um design tático para conseguir mapear e agragar as entidades e objetos de valor da
-aplicação, bem como os eventos de domínio
+  aplicação, bem como os eventos de domínio
 
 - Clareza do que é complexidade de negócio e complexidade técnica
 
@@ -60,5 +61,21 @@ aplicação, bem como os eventos de domínio
 <p align="center">
   <a href="">
     <img src="./problema-solucao.drawio.png">
+  </a>
+</p>
+
+# O que é um contexto delimitado?
+
+- Bounded Contexts
+
+- É uma forma de dividir o domínio em partes menores, delimitando o contexto de cada uma delas.
+
+- Cada Bounded Context é uma parte do domínio que possui sua própria linguagem ubíqua, regras de negócio e processos.
+
+# Contexto é Rei
+
+<p align="center">
+  <a href="">
+    <img src="./contexto-rei.drawio.png">
   </a>
 </p>
