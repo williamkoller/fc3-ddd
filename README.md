@@ -1,4 +1,6 @@
-# Curso - Full Cycle 3.0 - Domain-Driven Design
+# Full Cycle 3.0
+
+## Domain-Driven Design
 
 ## O que é DDD?
 
