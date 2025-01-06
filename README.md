@@ -52,7 +52,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./domain-subdomain.drawio.png">
+    <img src="./resources/domain-subdomain.drawio.png">
   </a>
 </p>
 
@@ -60,7 +60,7 @@
 
 <p align="center">
   <a href="">
-    <img src="./problema-solucao.drawio.png">
+    <img src="./resources/problema-solucao.drawio.png">
   </a>
 </p>
 
@@ -76,6 +76,27 @@
 
 <p align="center">
   <a href="">
-    <img src="./contexto-rei.drawio.png">
+    <img src="./resources/contexto-rei.drawio.png">
   </a>
 </p>
+
+# Modelagem estratégica / Context Mapping
+
+<p align="center">
+  <a href="">
+    <img src="./resources/context-mapping.drawio.png">
+  </a>
+</p>
+
+# Padrões de Context Mapping
+
+- Partnership
+- Shared Kernel
+- Customer-Supplier Development
+- Conformist
+- Anticorruption-layer
+- Open host service
+- Publish language
+- Separate ways
+- Big Ball and Mud
+- [ddd-crew/context-mapping](https://github.com/ddd-crew/context-mapping)
